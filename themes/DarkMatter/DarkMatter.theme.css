@@ -31,7 +31,7 @@ div>*:not(code) {
 }
 
 textarea {
-	background:transparent !important;
+	background:!important;
 }
 
 .scroller-wrap .scroller::-webkit-scrollbar-thumb {
@@ -77,7 +77,7 @@ textarea {
 .divider-red span,
 .messages-wrapper,
 #voice-connection {
-	background: transparent !important;
+	background: !important;
 }
 
 /* Server list area */
